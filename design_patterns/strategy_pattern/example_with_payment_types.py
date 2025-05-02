@@ -47,7 +47,7 @@ class PaymentStrategy(ABC):
 
 class CreditCardPaymentStrategy(PaymentStrategy):
     def process_payment(self, amount: float):
-        print(f"Processing credit card payment of amount {xx}")
+        print(f"Processing credit card payment of amount {amount}")
 
 class DebitCardPaymentStrategy(PaymentStrategy):
     def process_payment(self, amount: float):
