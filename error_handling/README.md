@@ -1,0 +1,14 @@
+## Reading Note:
+- https://www.datacamp.com/tutorial/exception-handling-python
+- https://zerotomastery.io/blog/python-try-except/#Advanced-Example-Automating-API-requests-with-proactive-error-handling
+- https://realpython.com/python-exceptions/#understanding-exceptions-and-syntax-errors
+- https://realpython.com/python-raise-exception/#choosing-the-exception-to-raise-built-in-vs-custom
+- https://medium.com/@kishorev1/raise-and-try-catch-why-they-need-to-be-separate-and-why-use-exceptions-over-errors-100177ce57ee
+- https://stackoverflow.com/questions/56942284/what-is-the-difference-between-raise-and-except
+- https://www.linkedin.com/pulse/use-raise-effective-exceptions-python-yamil-garcia-bplee
+- https://stackoverflow.com/questions/17245255/should-you-catch-all-exceptions-in-your-main-method
+- https://www.linkedin.com/pulse/error-handling-debugging-apache-airflow-part-3-mayank-gulaty-zor8e
+- https://reintech.io/blog/error-handling-retry-strategies-airflow
+- https://medium.com/@kopalgarg/failure-handling-in-apache-airflow-dags-6e20945859cd
+- https://jerrynsh.com/python-exception-handling-patterns-and-best-practices/
+- https://dev.to/saurabhkurve/best-practices-and-pitfalls-in-java-exception-handling-37dk
